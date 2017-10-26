@@ -1,0 +1,53 @@
+c:\users\tvitko\documents\visual studio 2015\Projects\PrintersProject\PrintersProject\bin\Debug\PrintersProject.exe.config
+C:\Users\tvitko\documents\visual studio 2015\Projects\PrintersProject\PrintersProject\bin\Debug\PrintersProject.exe
+C:\Users\tvitko\documents\visual studio 2015\Projects\PrintersProject\PrintersProject\bin\Debug\PrintersProject.pdb
+C:\Users\tvitko\documents\visual studio 2015\Projects\PrintersProject\PrintersProject\obj\Debug\PrintersProject.csprojResolveAssemblyReference.cache
+C:\Users\tvitko\documents\visual studio 2015\Projects\PrintersProject\PrintersProject\obj\Debug\PrintersProject.Form1.resources
+C:\Users\tvitko\documents\visual studio 2015\Projects\PrintersProject\PrintersProject\obj\Debug\PrintersProject.NewPrinterForm.resources
+C:\Users\tvitko\documents\visual studio 2015\Projects\PrintersProject\PrintersProject\obj\Debug\PrintersProject.Properties.Resources.resources
+C:\Users\tvitko\documents\visual studio 2015\Projects\PrintersProject\PrintersProject\obj\Debug\PrintersProject.csproj.GenerateResource.Cache
+C:\Users\tvitko\documents\visual studio 2015\Projects\PrintersProject\PrintersProject\obj\Debug\PrintersProject.exe
+C:\Users\tvitko\documents\visual studio 2015\Projects\PrintersProject\PrintersProject\obj\Debug\PrintersProject.pdb
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject\PrintersProject\obj\Debug\PrintersProject.NewOtherForm.resources
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject\PrintersProject\bin\Debug\MySql.Data.dll
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject\PrintersProject\bin\Debug\MySql.Data.xml
+C:\Users\tvitko\documents\visual studio 2015\Projects\PrintersProject\PrintersProject\obj\Debug\PrintersProject.AddSupplieForm.resources
+C:\Users\tvitko\documents\visual studio 2015\Projects\PrintersProject\PrintersProject\obj\Debug\PrintersProject.Warehouse.resources
+C:\Users\tvitko\documents\visual studio 2015\Projects\PrintersProject\PrintersProject\obj\Debug\Interop.VBIDE.dll
+C:\Users\tvitko\documents\visual studio 2015\Projects\PrintersProject\PrintersProject\obj\Debug\PrintersProject.csproj.ResolveComReference.cache
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\bin\Debug\PrintersProject.exe.config
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\obj\Debug\Interop.VBIDE.dll
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\obj\Debug\PrintersProject.csproj.ResolveComReference.cache
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\obj\Debug\PrintersProject.exe
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\obj\Debug\PrintersProject.pdb
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\bin\Debug\printers_db.mdb
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\bin\Debug\PrintersProject.exe
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\bin\Debug\PrintersProject.pdb
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\bin\Debug\MySql.Data.dll
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\bin\Debug\MySql.Data.xml
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\obj\Debug\PrintersProject.AddSupplieForm.resources
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\obj\Debug\PrintersProject.Form1.resources
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\obj\Debug\PrintersProject.NewOtherForm.resources
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\obj\Debug\PrintersProject.NewPrinterForm.resources
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\obj\Debug\PrintersProject.Properties.Resources.resources
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\obj\Debug\PrintersProject.Warehouse.resources
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\obj\Debug\PrintersProject.csproj.GenerateResource.Cache
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject - Copy\PrintersProject\obj\Debug\PrintersProject.csprojResolveAssemblyReference.cache
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\bin\Debug\PrintersProject.exe.config
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\obj\Debug\Interop.VBIDE.dll
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\obj\Debug\PrintersProject.csproj.ResolveComReference.cache
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\obj\Debug\PrintersProject.exe
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\obj\Debug\PrintersProject.pdb
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\bin\Debug\printers_db.mdb
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\bin\Debug\PrintersProject.exe
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\bin\Debug\PrintersProject.pdb
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\bin\Debug\MySql.Data.dll
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\bin\Debug\MySql.Data.xml
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\obj\Debug\PrintersProject.csprojResolveAssemblyReference.cache
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\obj\Debug\PrintersProject.AddSupplieForm.resources
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\obj\Debug\PrintersProject.Form1.resources
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\obj\Debug\PrintersProject.NewOtherForm.resources
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\obj\Debug\PrintersProject.NewPrinterForm.resources
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\obj\Debug\PrintersProject.Properties.Resources.resources
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\obj\Debug\PrintersProject.Warehouse.resources
+C:\Users\tvitko\Documents\Visual Studio 2015\Projects\PrintersProject_MDB\PrintersProject\obj\Debug\PrintersProject.csproj.GenerateResource.Cache
